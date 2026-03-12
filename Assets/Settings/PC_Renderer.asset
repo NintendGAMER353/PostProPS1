@@ -66,9 +66,9 @@ MonoBehaviour:
     probeVolumeBlendStatesCS: {fileID: 7200000, guid: b9a23f869c4fd45f19c5ada54dd82176, type: 3}
   m_RendererFeatures:
   - {fileID: 7833122117494664109}
-  - {fileID: -5761509213514519134}
   - {fileID: -1868923685498874951}
-  m_RendererFeatureMap: ad6b866f10d7b46ca2ad5366e5010bb0b993865dcf3f10e6
+  - {fileID: -5761509213514519134}
+  m_RendererFeatureMap: ad6b866f10d7b46cb993865dcf3f10e6a2ad5366e5010bb0
   m_UseNativeRenderPass: 1
   xrSystemData: {fileID: 0}
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
