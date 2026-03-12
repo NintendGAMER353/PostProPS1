@@ -40,7 +40,7 @@ MonoBehaviour:
   active: 1
   distance:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.31
   cropToFit:
     m_OverrideState: 0
     m_Value: 1
@@ -59,7 +59,7 @@ MonoBehaviour:
   active: 1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.772
+    m_Value: 0.7
 --- !u!114 &-3088012089228055132
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -83,8 +83,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
   hueShift:
-    m_OverrideState: 0
-    m_Value: -61
+    m_OverrideState: 1
+    m_Value: -10
   saturation:
     m_OverrideState: 1
     m_Value: -36
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: CRT
+  m_Name: GlovalVolume
   m_EditorClassIdentifier: 
   components:
   - {fileID: 7919532655745304894}
